@@ -34,20 +34,6 @@ If you want to learn more about the project, you can join our Discord group by s
 Thank you for being a part of our model rocket community!
 
 
-        |
-       / \
-      / _ \
-     | (_) |
-     |  _  |
-     | (_) |
-     |     |
-     |     |
-     |     |
-    /|     |\
-   / |     | \
-  /  |     |  \
- |   |     |   |
- |   |     |   |
 
 
 
